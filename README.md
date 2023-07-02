@@ -13,9 +13,6 @@
 - :paperclip: [My Resume/CV](https://github.com/Jirut01/Jirut01/blob/main/file/jirut_resume.pdf)
 - :email: jirutsangchay.ball@gmail.com
 
-#### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirut01&layout=pie)](https://github.com/Jirut01/github-readme-stats)
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
@@ -63,3 +60,6 @@ Mac                      2 hrs 14 mins       ███████████�
 
  Last Updated on 02/07/2023 17:07:35 UTC
 <!--END_SECTION:waka-->
+
+#### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirut01&layout=pie)](https://github.com/Jirut01/github-readme-stats)
