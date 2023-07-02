@@ -19,8 +19,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Bangkok
-
 💬 Programming Languages: 
 Markdown                 58 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
 YAML                     49 mins             █████████░░░░░░░░░░░░░░░░   36.82 % 
@@ -37,7 +35,7 @@ Mac                      2 hrs 14 mins       ███████████�
 ```
 
 
- Last Updated on 02/07/2023 17:27:37 UTC
+ Last Updated on 02/07/2023 17:35:38 UTC
 <!--END_SECTION:waka-->
 
 #### Top Langs
