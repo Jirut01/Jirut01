@@ -13,9 +13,11 @@
 - :paperclip: [My Resume/CV](https://github.com/Jirut01/Jirut01/blob/main/file/jirut_resume.pdf)
 - :email: jirutsangchay.ball@gmail.com
 
+#### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirut01&layout=pie)](https://github.com/Jirut01/github-readme-stats)
 
 #### Coding Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirut01)](https://github.com/Jirut01/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 
