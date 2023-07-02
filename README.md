@@ -14,7 +14,7 @@
 - :email: jirutsangchay.ball@gmail.com
 
 
-#### Coding Stats
+<!-- #### Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
