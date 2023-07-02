@@ -5,16 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jirut-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirut-sangchay-338370251/)
 
 <!-- TODO: Add last video link -->
-
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/Jirut01/Jirut01/blob/main/file/jirut_resume.pdf)
-- :email: jirutsangchay.ball@gmail.com
-
-|
- 
- #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirut01&layout=pie)](https://github.com/Jirut01/github-readme-stats)
- 
+- :email: jirutsangchay.ball@gmail.com 
 
 #### Coding Stats
 
@@ -42,3 +35,6 @@ Mac                      2 hrs 14 mins       ███████████�
 
  Last Updated on 02/07/2023 17:35:38 UTC
 <!--END_SECTION:waka-->
+
+#### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirut01&layout=pie)](https://github.com/Jirut01/github-readme-stats)
