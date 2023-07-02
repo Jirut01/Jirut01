@@ -2,8 +2,7 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jirut-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirut-sangchay-338370251/) [![Mail Badge](https://img.shields.io/badge/-jirutsangchay-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jirutsangchay.ball@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Jirut-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirut-sangchay-338370251/)
 
 <!-- TODO: Add last video link -->
 
