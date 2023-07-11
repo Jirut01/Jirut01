@@ -3,12 +3,12 @@
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jirut-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirut-sangchay-338370251/)
+[![Website Badge](https://img.shields.io/badge/Website-184aa8?logo=website&logoColor=)](https://resume-jirut.web.app)
 
 <!-- TODO: Add last video link -->
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/Jirut01/Jirut01/blob/main/resume_jirut.pdf)
 - :email: jirutsangchay.ball@gmail.com
--  <a href ="https://resume-jirut.web.app"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
 
 #### Coding Stats
 
