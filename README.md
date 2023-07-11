@@ -36,6 +36,3 @@ Mac                      24 hrs 47 mins      ███████████�
 
  Last Updated on 11/07/2023 13:27:39 UTC
 <!--END_SECTION:waka-->
-
-#### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirut01&layout=pie)](https://github.com/Jirut01/github-readme-stats)
