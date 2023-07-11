@@ -8,6 +8,7 @@
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/Jirut01/Jirut01/blob/main/resume_jirut.pdf)
 - :email: jirutsangchay.ball@gmail.com
+-  <a href ="https://resume-jirut.web.app"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
 
 #### Coding Stats
 
