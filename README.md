@@ -2,8 +2,8 @@
  
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jirut-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirut-sangchay-338370251/){:target="_blank"} 
-[![Website Badge](https://img.shields.io/badge/Website-184aa8?logo=website&logoColor=)](https://resume-jirut.web.app){:target="_blank"} 
+[![Linkedin Badge](https://img.shields.io/badge/-Jirut-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirut-sangchay-338370251)
+[![Website Badge](https://img.shields.io/badge/Website-184aa8?logo=website&logoColor=)](https://resume-jirut.web.app){target="_blank"}
 
 <!-- TODO: Add last video link -->
 #### Bizness
