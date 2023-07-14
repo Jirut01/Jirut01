@@ -13,7 +13,7 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2032%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,5 +33,5 @@ Mac                      24 hrs 41 mins      ███████████�
 ```
 
 
- Last Updated on 14/07/2023 01:57:38 UTC
+ Last Updated on 14/07/2023 14:31:23 UTC
 <!--END_SECTION:waka-->
