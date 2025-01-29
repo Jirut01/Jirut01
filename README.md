@@ -7,7 +7,6 @@
 
 <!-- TODO: Add last video link -->
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Jirut01/Jirut01/blob/main/resume_jirut.pdf)
 - :email: jirutsangchay.ball@gmail.com
 
 #### Coding Stats
